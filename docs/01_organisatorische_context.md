@@ -29,7 +29,7 @@ Chocolate Firm wil een digitale en gepersonaliseerde klantrelatie creëren waarb
 ### Stakeholders
 
 | Stakeholder | Belang | Invloed |
-
+|------------|--------|--------|
 | Klanten (B2C) | Gebruiksgemak, informatie, service | Hoog |
 | B2B klanten | Bestellen, voorraadbeheer | Hoog |
 | Management | Winst en strategie | Hoog |

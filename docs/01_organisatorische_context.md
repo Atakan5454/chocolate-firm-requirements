@@ -30,14 +30,9 @@ De doelstellingen geven richting aan het project en zijn meetbaar:
 
 Deze doelen bepalen welke functionaliteiten prioriteit krijgen in de ontwikkeling.
 
-## Organogram (tekstueel)
+## Organogram
 De organisatie bestaat uit meerdere lagen en afdelingen:
-- Raad van commissarissen  
-- Management  
-  - IT afdeling  
-  - Marketing  
-  - Klantenservice  
-  - Productie  
+![Organogram Chocolate Firm](../images/organogram.png)
 
 Deze structuur is belangrijk omdat verschillende afdelingen betrokken zijn bij het systeem, zoals IT voor ontwikkeling en klantenservice voor gebruik.
 

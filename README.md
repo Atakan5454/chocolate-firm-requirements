@@ -19,3 +19,5 @@ Dit document dient als fundament voor de verdere ontwikkeling van de applicatie 
 - [DoR en DoD](docs/06_dor_dod.md)
 - [Sitemap](docs/07_sitemap.md)
 - [Wireframes](docs/08_wireframes.md)
+
+![MMM AI Label](images/mmm-ai-label.png)

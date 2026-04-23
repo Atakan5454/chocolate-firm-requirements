@@ -14,3 +14,4 @@ Actoren zijn alle partijen die interactie hebben met de applicatie.
 
 In de casus werken deze actoren samen binnen één systeem. De klant staat centraal en gebruikt de app, terwijl systemen zoals ERP en CRM op de achtergrond data leveren. Dit zorgt voor een geïntegreerde oplossing waarin alle processen samenkomen.
 
+[Vorige](01_organisatorische_context.md) | [README](../README.md) | [Volgende](03_bedrijfsprocesanalyse.md)

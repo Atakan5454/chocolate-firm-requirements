@@ -1,7 +1,10 @@
+
 # 4. Productvisie
 
+De productvisie beschrijft het gewenste resultaat van het product en de waarde ervan. Volgens de theorie geeft dit richting aan het ontwikkelteam en stakeholders :contentReference[oaicite:5]{index=5} en sluit het aan op het Product Vision Board :contentReference[oaicite:6]{index=6}.
+
 ## Visie
-De mobiele applicatie biedt klanten een centraal platform voor informatie, service en persoonlijke ervaringen, waardoor klanttevredenheid en loyaliteit toenemen.
+De mobiele applicatie creëert een centrale en gepersonaliseerde klantomgeving waarin klanten eenvoudig toegang hebben tot informatie, service en producten.
 
 ## Doelgroep
 - Consumenten (B2C)  
@@ -14,13 +17,15 @@ De mobiele applicatie biedt klanten een centraal platform voor informatie, servi
 
 ## Product
 Mobiele app met:
-- Productregistratie via QR-code  
-- Persoonlijk dashboard  
-- Chatbot en klantenservice  
-- Community en recepten  
+- Productregistratie  
+- Dashboard  
+- Chatbot  
+- Community  
 - Bestelfunctie  
 
 ## Business doelen
-- Verhogen van klantloyaliteit  
-- Verhogen van omzet  
-- Verlagen van kosten  
+- Meer klantloyaliteit  
+- Meer omzet  
+- Minder kosten  
+
+---

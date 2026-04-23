@@ -53,7 +53,7 @@ Acceptatiecriteria:
 - Betaling werkt  
 - Orderbevestiging  
 
-Inschatting: XL  
+Inschatting: L  
 
 ---
 
@@ -65,3 +65,4 @@ Acceptatiecriteria:
 
 Inschatting: L  
 
+[Vorige](04_productvisie.md) | [README](../README.md) | [Volgende](06_dor_dod.md)

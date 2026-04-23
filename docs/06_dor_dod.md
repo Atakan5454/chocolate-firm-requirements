@@ -12,3 +12,4 @@
 - Acceptatiecriteria gehaald  
 - Geen bugs aanwezig  
 
+[Vorige](05_user_stories.md) | [README](../README.md) | [Volgende](07_sitemap.md)

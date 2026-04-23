@@ -47,3 +47,4 @@ De app is de oplossing om deze kloof te overbruggen.
 Dit model laat zien hoe informatie door het systeem stroomt en wie daarbij betrokken zijn.
 
 ---
+[Vorige](02_actoren.md) | [README](../README.md) | [Volgende](04_productvisie.md)

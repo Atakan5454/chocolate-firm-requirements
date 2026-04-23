@@ -29,3 +29,4 @@ Mobiele app met:
 - Minder kosten  
 
 ---
+[Vorige](03_bedrijfsprocesanalyse.md) | [README](../README.md) | [Volgende](05_user_stories.md)

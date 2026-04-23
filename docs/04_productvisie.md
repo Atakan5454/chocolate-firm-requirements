@@ -1,7 +1,7 @@
 
 # 4. Productvisie
 
-De productvisie beschrijft het gewenste resultaat van het product en de waarde ervan. Volgens de theorie geeft dit richting aan het ontwikkelteam en stakeholders en sluit het aan op het Product Vision Board :contentReference.
+De productvisie beschrijft het gewenste resultaat van het product en de waarde ervan.
 
 ## Visie
 De mobiele applicatie creëert een centrale en gepersonaliseerde klantomgeving waarin klanten eenvoudig toegang hebben tot informatie, service en producten.

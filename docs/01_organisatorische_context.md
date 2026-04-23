@@ -76,3 +76,4 @@ Laag: leveranciers
 Deze belangen beïnvloeden direct de eisen aan het systeem.
 
 ---
+[README](../README.md) | [Volgende](02_actoren.md)

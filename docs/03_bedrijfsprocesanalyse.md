@@ -1,27 +1,40 @@
 # 3. Bedrijfsprocesanalyse
 
+De bedrijfsprocesanalyse beschrijft hoe het huidige proces werkt en hoe dit verbeterd kan worden. Volgens de theorie kijk je naar IST, SOLL, knelpunten en de GAP :contentReference[oaicite:4]{index=4}.
+
 ## IST (huidige situatie)
-- Klanten zoeken informatie via website of verpakking  
-- Klachten worden afgehandeld via mail of telefoon  
-- Bestellingen verlopen via verschillende systemen  
-- Er is geen centraal overzicht voor klanten  
+In de huidige situatie:
+- Klanten zoeken informatie via verschillende kanalen  
+- Klachten worden handmatig afgehandeld  
+- Bestellingen verlopen via losse systemen  
+- Er is geen centraal overzicht  
+
+Dit leidt tot inefficiëntie en een slechte klantbeleving.
 
 ## Knelpunten
 - Geen centraal platform  
 - Lange wachttijden  
-- Inefficiënt proces  
+- Inefficiënte communicatie  
 - Gebrek aan personalisatie  
 
+Deze problemen vormen de aanleiding voor het ontwikkelen van de app.
+
 ## SOLL (gewenste situatie)
-- Alle functionaliteiten in één mobiele app  
-- Self-service voor klanten  
-- AI-ondersteuning  
-- Integratie met ERP, CRM en BI systemen  
+In de gewenste situatie:
+- Alle functionaliteiten zijn geïntegreerd in één app  
+- Klanten kunnen zelfstandig acties uitvoeren  
+- AI ondersteunt bij vragen en problemen  
+- Systemen zijn gekoppeld (ERP, CRM, BI)  
+
+Dit zorgt voor een betere en efficiëntere klantbeleving.
 
 ## GAP
+De GAP beschrijft het verschil tussen IST en SOLL:
 - Van handmatig naar digitaal  
 - Van versnipperd naar geïntegreerd  
 - Van reactief naar proactief  
+
+De app is de oplossing om deze kloof te overbruggen.
 
 ## SIPOC
 
@@ -31,3 +44,6 @@
 | CRM | Klantdata | Analyse | Aanbevelingen | Klant |
 | ERP | Voorraad | Bestellen | Orders | Klant |
 
+Dit model laat zien hoe informatie door het systeem stroomt en wie daarbij betrokken zijn.
+
+---

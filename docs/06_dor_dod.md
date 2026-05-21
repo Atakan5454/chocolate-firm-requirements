@@ -1,7 +1,5 @@
 # 6. Definition of Ready en Definition of Done
 
-# 6. Definition of Ready en Definition of Done
-
 ## 6.1 Definition of Ready
 
 De Definition of Ready bepaalt wanneer een user story klaar is om opgepakt te worden door het ontwikkelteam. Een user story mag pas in een sprint worden opgenomen wanneer deze voldoende duidelijk, afgebakend en controleerbaar is.

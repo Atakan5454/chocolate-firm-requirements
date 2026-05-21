@@ -45,7 +45,35 @@ Dit scherm ondersteunt de requirement dat klanten producten eenvoudig moeten kun
 Als klant wil ik een QR-code op een chocoladeproduct scannen, zodat ik direct productinformatie zoals ingrediënten, herkomst, allergenen en houdbaarheid kan bekijken. 
 
 ---
+---
 
+## Productdetail scherm
+
+![Productdetail wireframe](../images/productdetail-wireframe.png)
+
+### Beschrijving
+
+Het productdetail scherm toont uitgebreide informatie over een gescand of geselecteerd chocoladeproduct.
+
+Het scherm bevat:
+
+- Productnaam en productafbeelding  
+- Registratiedatum  
+- Houdbaarheidsdatum  
+- Ingrediënten  
+- Allergenen  
+- Herkomstinformatie  
+- Knop om het product op te slaan bij **“Mijn producten”**
+
+### Koppeling met requirements
+
+Dit scherm ondersteunt de requirement dat klanten volledige en betrouwbare productinformatie moeten kunnen bekijken na het scannen of openen van een product.
+
+### Koppeling met user stories
+
+Als klant wil ik een QR-code op een chocoladeproduct scannen, zodat ik direct productinformatie zoals ingrediënten, herkomst, allergenen en houdbaarheid kan bekijken.
+
+Als klant wil ik een overzicht van mijn geregistreerde chocoladeproducten bekijken, zodat ik inzicht heb in mijn producten, houdbaarheid en relevante productinformatie.
 ## Klacht scherm
 
 ![Klacht wireframe](../images/klacht-wireframe.png)
@@ -86,6 +114,111 @@ Dit scherm ondersteunt de requirement dat klanten snel ondersteuning moeten kunn
 
 ### Koppeling met user stories
 Als klant wil ik vragen kunnen stellen aan een AI-chatbot, zodat ik snel antwoord krijg zonder te wachten op een klantenservicemedewerker. 
+---
 
+## Bestellen scherm
+
+![Bestellen wireframe](../images/bestellen-wireframe.png)
+
+### Beschrijving
+
+Het bestellen scherm maakt het mogelijk om chocoladeproducten te zoeken, bekijken en bestellen via de app.
+
+Het scherm bevat:
+
+- Zoekbalk voor producten  
+- Productcategorieën  
+- Productkaarten met naam, beschrijving en prijs  
+- Knop om producten toe te voegen aan het winkelmandje  
+- Winkelmandje met geselecteerde producten  
+- Betaal- of afrekenknop  
+
+### Koppeling met requirements
+
+Dit scherm ondersteunt de requirement dat klanten producten direct via de app moeten kunnen bestellen zonder gebruik te maken van een extern kanaal.
+
+### Koppeling met user stories
+
+Als klant wil ik chocoladeproducten via de app kunnen bestellen, zodat ik snel en eenvoudig producten kan kopen zonder een extern kanaal te gebruiken.
+
+---
+
+## Aanbevelingen scherm
+
+![Aanbevelingen wireframe](../images/aanbevelingen-wireframe.png)
+
+### Beschrijving
+
+Het aanbevelingen scherm toont persoonlijke productaanbevelingen op basis van voorkeuren, eerdere aankopen of geregistreerde producten.
+
+Het scherm bevat:
+
+- Lijst met aanbevolen producten  
+- Korte uitleg waarom een product wordt aanbevolen  
+- Productcategorie of smaaklabel  
+- Knop om een aanbevolen product te bekijken  
+- Mogelijkheid om voorkeuren verder te beheren  
+
+### Koppeling met requirements
+
+Dit scherm ondersteunt de requirement dat klanten gepersonaliseerde aanbevelingen moeten kunnen ontvangen op basis van voorkeuren en klantgedrag.
+
+### Koppeling met user stories
+
+Als klant wil ik gepersonaliseerde productaanbevelingen ontvangen, zodat ik nieuwe chocoladeproducten ontdek die passen bij mijn voorkeuren en aankoopgedrag.
+
+---
+
+## Profiel scherm
+
+![Profiel wireframe](../images/profiel-wireframe.png)
+
+### Beschrijving
+
+Het profiel scherm geeft de gebruiker de mogelijkheid om persoonlijke gegevens en voorkeuren te beheren.
+
+Het scherm bevat:
+
+- Profielgegevens van de gebruiker  
+- Naam  
+- E-mailadres  
+- Voorkeuren, zoals favoriete chocoladesoorten  
+- Allergieën  
+- Notificatie-instellingen  
+- Opslaanknop voor wijzigingen  
+
+### Koppeling met requirements
+
+Dit scherm ondersteunt de requirement dat klanten hun accountgegevens, voorkeuren en notificatie-instellingen kunnen beheren binnen de app.
+
+### Koppeling met user stories
+
+Als klant wil ik mijn profielgegevens en voorkeuren kunnen beheren, zodat mijn gegevens actueel blijven en de app beter aansluit op mijn persoonlijke situatie.
+
+---
+
+## Notificaties scherm
+
+![Notificaties wireframe](../images/notificaties-wireframe.png)
+
+### Beschrijving
+
+Het notificaties scherm toont belangrijke meldingen voor de gebruiker. Hierdoor blijft de klant op de hoogte van updates binnen de app.
+
+Het scherm bevat:
+
+- Meldingen over bestellingen  
+- Meldingen over klachtstatussen  
+- Meldingen over nieuwe aanbevelingen  
+- Meldingen over houdbaarheid van producten  
+- Mogelijkheid om meldingen als gelezen te markeren  
+
+### Koppeling met requirements
+
+Dit scherm ondersteunt de requirement dat klanten tijdig meldingen moeten ontvangen over bestellingen, klachten, producten en persoonlijke aanbevelingen.
+
+### Koppeling met user stories
+
+Als klant wil ik meldingen ontvangen over bestellingen, klachten en relevante productinformatie, zodat ik op tijd op de hoogte ben van belangrijke updates.
 ---
 [Vorige](07_sitemap.md) | [README](../README.md)
